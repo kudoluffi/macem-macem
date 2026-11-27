@@ -18,7 +18,7 @@ DB_NAME = os.getenv("DB_NAME")
 DB_USER = os.getenv("DB_USER")
 DB_PASSWORD = os.getenv("DB_PASSWORD")
 
-INTERNAL_DOMAIN = "phintracosekuritas.com"
+INTERNAL_DOMAIN = "mydomain.com"
 BATCH_SIZE = 10000
 LOGICAL_MESSAGE_WINDOW_SECONDS = 120
 
